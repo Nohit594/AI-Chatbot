@@ -48,8 +48,8 @@ You can see the live version at:
 List the technologies, frameworks, and tools you used. Example:
 
 * HTML / CSS / JavaScript
-* Frontend framework (if any): e.g. React, Vue, Angular, or plain JS
-* API / Backend (if applicable)
+* Frontend framework : React
+* API file for Google Gemini
 * Hosting: Netlify
 * Any libraries: e.g. axios/fetch, UI library etc.
 
@@ -90,7 +90,7 @@ npm run start
 If you have any environment variables or API keys required (for example to connect to an AI model / service), mention them here. Example:
 
 ```
-REACT_APP_OPENAI_API_KEY = your_api_key_here
+OPENAI_API_KEY = your_api_key_here
 API_BASE_URL = https://your-api.endpoint
 ```
 
@@ -125,5 +125,5 @@ MIT License. See [LICENSE](LICENSE) file for details.
 
 Created by **Nohit**.
 
-* GitHub: [your-github-username](https://github.com/your-github-username)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: [Nohit594](https://github.com/Nohit594)
+* Email: [nohitsinghchouhan594@gmail.com](mailto:nohitsinghchouhan594@gmail.com)
